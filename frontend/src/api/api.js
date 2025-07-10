@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_BASE = 'https://sniperthink-backend.onrender.com';
+// const API_BASE = 'https://sniperthink-backend.onrender.com';
+const API_BASE = 'https://sniper-think.onrender.com';
 // const API_BASE = 'http://localhost:5000/api'; // change later after deployment
 
 // const API_BASE = '/api';
